@@ -226,3 +226,19 @@ I deployed an Nginx web server inside a Docker container on an Azure Ubuntu Virt
 ```
 # azure-vm-docker-nginx-deployment
 Deployed an Nginx web server inside a Docker container on an Azure Ubuntu Virtual Machine. This project covers Docker container management, networking, monitoring, troubleshooting, and cloud deployment practices.
+## Project Screenshots
+
+### Azure Virtual Machine
+
+Azure Ubuntu VM used as cloud infrastructure for Docker deployment.
+
+(Add Azure VM screenshot here)
+
+---
+
+### Docker Nginx Container Running
+
+Running Nginx container:
+
+```bash
+sudo docker ps
